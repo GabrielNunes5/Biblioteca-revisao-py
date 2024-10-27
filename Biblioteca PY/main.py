@@ -4,6 +4,7 @@ livros = [
 
 clientes = [
     {"codigo": 1, "nome": "Gabriel"}
+    {"codigo": 2, "nome": "Beatriz"}
 ]
 
 codigo_livro = 1
